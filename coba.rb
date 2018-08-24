@@ -5,4 +5,4 @@
 # > Hello!
 # > Hello!
 # > Hello!
-print "wtf"
+puts "wtf"
