@@ -1,8 +1,7 @@
-3.times { print "Hello!" }
-# > Hello!Hello!Hello!
+def restaurant
+  restaurant_name = "Guy's American Kitchen & Bar"
+  cuisine = "american"
+  motto = "Welcome to Flavor Town!"
+end
 
-3.times { print "Hello!" }
-# > Hello!
-# > Hello!
-# > Hello!
-print " wtf"
+restaurant
