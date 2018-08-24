@@ -11,3 +11,5 @@ def say_hello
   puts phrase
   puts phrase
 end
+
+say_hello
