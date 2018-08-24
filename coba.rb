@@ -4,4 +4,4 @@
 # > Hello!
 # > Hello!
 # > Hello!
-print "wtf"
+print " wtf"
